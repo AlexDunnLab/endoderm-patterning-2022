@@ -3,6 +3,7 @@
 % This code takes lists of data (x, y, foxa2, otx2, cdx2) from discrete
 % experiments and compiles all data points into a pooled scatter plot 
 % comparing any two intensities, with the goal of identifying distinct populations.
+% See Figure 1H in Cui and Engel et al.
 
 % Written by Kiara Cui
 % Last modified September 20, 2021
